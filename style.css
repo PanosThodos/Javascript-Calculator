@@ -1,0 +1,38 @@
+body{
+  background:url('http://wallpapercave.com/wp/Ka71A3S.jpg')center center;
+}
+h2{
+  margin:2%;
+  color:white;
+}
+.calculator-container {
+  background-color: rgb(37, 39, 95);
+  height: 400px;
+  border-radius: 15px;
+  box-shadow: 0px 2px 5px 1px;
+  margin:auto;
+  content-align:center;
+  margin-top: 20px;
+}
+.display {
+  background-color: white;
+  width: 80%;
+  height: 75px;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px -1px inset;
+}
+
+button {
+  margin: 10px;
+  width: 50px;
+  border-radius: 50%!important;
+}
+#result, #chain {
+  text-align: right;
+  padding-right: 5px;
+}
+#buttons{
+  float:left;
+  margin:20px;
+}
